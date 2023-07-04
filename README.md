@@ -1,6 +1,6 @@
 <div>
 <br/>
-<img src="img/rmr3.jpg" width="200" />
+<img src="img/rmr3.jpg" width="200" aligt="right"/>
 <br/>
 <br/>
   
