@@ -10,7 +10,7 @@
 
 - Studying [***Computer Information System***]
 
-<img src="" width="100" align="right" />
+<img src="img/e5bfecc8eb93631dc517a26fd003005a.jpg" width="100" align="right" />
 <br/>
 <img src="" width="100" />
 <br/>
