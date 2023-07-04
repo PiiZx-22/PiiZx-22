@@ -1,5 +1,4 @@
 <div>
-<img src="img/5.jpg" width="100" align="right" />
 <br/>
 <img src="img/1.jpg" width="200" />
 <br/>
