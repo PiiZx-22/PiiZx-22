@@ -1,6 +1,6 @@
 <div>
 <br/>
-<img src="img/kzh.jpg" width="100" />
+<img src="img/kzh.jpg" width="700" />
 <br/>
 <br/>
   
@@ -10,9 +10,9 @@
 
 - Studying [***Computer Information System***]
 
-<img src="img/2.jpg" width="100" align="right" />
+<img src="" width="100" align="right" />
 <br/>
-<img src="img/3.jpg" width="100" />
+<img src="" width="100" />
 <br/>
-<img src="img/4.jpg" width="200" /><br/>
+<img src="" width="200" /><br/>
   
