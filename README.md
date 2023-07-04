@@ -11,8 +11,8 @@ Javascript, HTML, CSS , PHP...
 
 
 ## 🔗 Links
-[![Youtube](https://img.shields.io/badge/youtube-DD2C00)](https://www.youtube.com/channel/UCQy0q6cQP-a7shSa_Gzzljg)<br/>
-[![Facebook](https://img.shields.io/badge/facebook-2979FF)](https://web.facebook.com/profile.php?id=100071729918380)
+[![Youtube](https://img.shields.io/badge/Youtube-%23FF0000)](https://www.youtube.com/channel/UCQy0q6cQP-a7shSa_Gzzljg)<br/>
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2)](https://web.facebook.com/profile.php?id=100071729918380)
 
 
 ## Other Common Github Profile Sections
