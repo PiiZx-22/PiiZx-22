@@ -1,7 +1,7 @@
 <div>
 <img src="" width="300" align="right" />
 <br/>
-<img src="./img/AboutMe-elaina.png" width="500" />
+<img src="img/1.jpg" width="500" />
 <br/>
 <br/>
   
@@ -11,9 +11,9 @@
 
 - Studying [***Computer Information System***]
 
-<img src="./img/Waifu-elainaa.png" width="300" align="right" />
+<img src="img/2.jpg" width="300" align="right" />
 <br/>
-<img src="./img/Repo-elaina.png" width="500" />
+<img src="img/3.jpg" width="500" />
 <br/>
-<img src="./img/banner-elainaa.png" width="500" /><br/>
+<img src="img/4.jpg" width="500" /><br/>
   
